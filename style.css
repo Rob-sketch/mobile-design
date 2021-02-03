@@ -1,3 +1,11 @@
+* {
+    overflow-x: hidden;
+    padding: 0px !important;
+    margin: 0px !important;
+  }
+
+
+
 .iphone {
     position: relative;
 width: 414px;
